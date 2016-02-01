@@ -3,16 +3,22 @@
     width:175px;
 }
 .charsheet input{
-	display: inline-block;
+    display: inline-block;
 	width:150px;
 	margin:5px 0;
-}
-.charsheet .skills{
-	width:300px;
 }
 .charsheet input[type="number"]{
 	width:50px;
 }
-.charsheet .imposing{
-	width:auto;
+.charsheet .sheet-skills{
+	width:300px;
+}
+.charsheet .sheet-skills input{
+	width:100% !important;
+}
+.charsheet .sheet-imposing{
+	width:auto !important;
+}
+.charsheet .sheet-input-imposing{
+	max-width:81%;
 }
