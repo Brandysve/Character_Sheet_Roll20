@@ -1,0 +1,15 @@
+.charset{
+	background-image:url('http://puu.sh/mSdqc/7669b6c1a0.jpg')no-repeat;
+	opacity: 0.5;
+}
+.charsheet label{
+    display: inline-block;
+    width:175px;
+}
+.charsheet input{
+	display: inline-block;
+	width:150px;
+}
+.charsheet input[type="number"]{
+	width:50px;
+}
